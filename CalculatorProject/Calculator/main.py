@@ -1,7 +1,3 @@
-# main.py
-# Simple Calculator - console based
-# Supports: addition, subtraction, multiplication, division
-# Author: <Your Name>
 # Usage: python main.py
 
 def add(a, b):
